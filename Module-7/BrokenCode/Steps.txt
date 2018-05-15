@@ -1,0 +1,8 @@
+Wrap "Boo The Dog Fan Page!" in heading tags
+Delete Instructions
+Add opening tag for Boo image
+Point href to valid link for 'read more'
+Link to logic.js file instead of errors.js at bottom of html file
+Seperate facts in BooFacts array
+Correct button ids for funtext color changes
+Put "click" in quotation marks to enable box grow and shrink in logic.js

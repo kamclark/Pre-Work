@@ -1,0 +1,60 @@
+﻿<style > h1 {
+    text-decoration: underline;
+}
+
+p, li {
+    font-size: 24px;
+    font-family: cursive;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 36px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.newFont {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.styledFont{
+    font-style:italic;
+    font-family: 'Comic Sans MS';
+    font-weight: bolder;
+}
+
+.multiple {
+    font-size: 24px;
+    font-weight: bold;
+    color: orange;
+}
+
+.tiny {
+    font-size: 6px;
+}
+
+#styledImage {
+    border-style:dotted;
+    border-color:red;
+    border-width: 2px;
+}
+
+.centered {
+    text-align: center;
+}
+
+</style >

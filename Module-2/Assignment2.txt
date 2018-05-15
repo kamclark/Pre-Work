@@ -1,0 +1,32 @@
+Backbone.js
+Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm.
+
+AJAX
+Ajax is a client-side script that communicates to and from a server/database without the need for a postback or a complete page refresh. The best definition I've read for Ajax is “the method of exchanging data with a server, and updating parts of a web page
+
+Scala
+Scala is a general-purpose programming language providing support for functional programming and a strong static type system.
+
+Sharepoint
+SharePoint isn’t something you buy and install on your own desktop but rather a back-end system that ties all your employees’ PCs and mobile devices together, allowing them all to communicate and synchronize their efforts.
+
+Wordpress
+WordPress is an online, open source website creation tool written in PHP.
+
+Jquery
+jQuery is a lightweight, "write less, do more", JavaScript library. jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+
+Apache
+Apache is the most widely used web server software. Developed and maintained by Apache Software Foundation, Apache is an open source software available for free. It runs on 67% of all webservers in the world
+
+AWS
+Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.
+
+MongoDB
+MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. MongoDB stores data in flexible, JSON-like documents, meaning fields can vary from document to document and data structure can be changed over time
+
+Groovy/Grails
+Grails is an open source web application framework which uses the Groovy programming language. It is intended to be a high-productivity framework by following the "coding by convention" paradigm, providing a stand-alone development environment and hiding much of the configuration detail from the developer.
+
+Django
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design which follows the model-view-template architectural pattern.. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It's free and open source. z`

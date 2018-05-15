@@ -1,0 +1,12 @@
+If mouse reaches edge of screen (vertically) life variable - 1
+If projectile touches mouse score + 1
+After timer runs down to 0 level variable + 1
+Once level > 3, game over (end condition)
+
+gameStart loop is running as long as lives > 0
+
+variables
+lives
+level
+score
+time
